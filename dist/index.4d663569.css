@@ -1,12 +1,158 @@
+@import "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900";
+:root {
+  --footer: #ad9030;
+  --sobre-fosc: #fff;
+  --principal: #79baab;
+  --principal-light: #c5e1db;
+  --contrast: #dc4a23;
+  --contrast-light: #eb9781;
+  --body-fons: #fff;
+}
+
 h1 {
-  color: #ff69b4;
-  font-family: cursive;
+  color: var(--fosc);
 }
 
 body {
   height: 100vh;
+  width: 100vw;
   color: #1f1f1f;
-  background: linear-gradient(#bada55, #c0ffee);
+  background-color: var(--body-fons);
+  min-width: 250px;
+  margin: 0 auto;
+  font-family: Montserrat;
+  font-size: 1rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.img-fluid {
+  max-width: 20vw;
+  min-width: 200px;
+  height: auto;
+}
+
+p {
+  line-height: 1.5rem;
+}
+
+header {
+  text-align: center;
+  background-color: var(--sobre-fosc);
+  z-index: 1;
+  position: sticky;
+  top: 0;
+}
+
+header .container {
+  margin: auto;
+}
+
+header {
+  justify-content: space-between;
+  display: flex;
+}
+
+nav {
+  color: var(--fosc);
+  display: inline-block;
+}
+
+nav ul {
+  padding-left: 0;
+  display: inline-block;
+}
+
+nav ul li {
+  padding-left: 1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  display: inline-block;
+}
+
+nav ul li a:hover {
+  color: var(--principal);
+}
+
+nav li.active a {
+  color: var(--fosc);
+  font-weight: 600;
+}
+
+footer, header {
+  background-color: var(--footer);
+  color: var(--sobre-fosc);
+  text-align: center;
+  padding: .5rem;
+}
+
+header, main, footer {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+main {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2rem;
+}
+
+#benvinguda {
+  height: 85vh;
+  max-width: 100vw;
+  background-image: url("max-bottinger-a6vQXseqllA-unsplash.364914ef.jpg");
+  background-position: bottom;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+#benvinguda h1 {
+  text-align: center;
+  color: #faebd7;
+  text-transform: uppercase;
+  margin-top: 0;
+  padding-top: 10vh;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.activitatResum {
+  align-items: flex-start;
+  font-size: .9rem;
+  display: flex;
+}
+
+.activitatFoto {
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .activitatResum {
+    display: block;
+  }
+
+  .img-fluid {
+    max-width: 50vw;
+  }
+
+  header {
+    display: block;
+  }
+
+  nav ul {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */

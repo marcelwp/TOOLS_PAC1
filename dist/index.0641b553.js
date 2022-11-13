@@ -535,6 +535,6 @@ function hmrAcceptRun(bundle, id) {
 const name = "world";
 console.log(`Hello ${name}`);
 
-},{}]},["7Aums","bNKaB"], "bNKaB", "parcelRequirea87c")
+},{}]},["7Aums","bNKaB"], "bNKaB", "parcelRequiref325")
 
 //# sourceMappingURL=index.0641b553.js.map

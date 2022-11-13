@@ -1,9 +1,9 @@
 {
-  "name": "pac1",
+  "name": "m.247",
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "version": "1.0.0",
-  "description": "package de la pac1",
+  "description": "Package for M.247 PAC1",
   "scripts": {
     "start": "npm-run-all clean parcel:dev",
     "build": "npm-run-all clean parcel:build",
@@ -16,7 +16,12 @@
     "parcel": "^2.7.0",
     "rimraf": "^3.0.2"
   },
-  "keywords": [],
-  "author": "Marcel Weichsel",
-  "license": "ISC"
+  "keywords": [
+    "UOC"
+  ],
+  "author": "Marcel Weichsel <marcelwp@uoc.edu>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
