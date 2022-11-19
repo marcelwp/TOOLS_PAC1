@@ -1,18 +1,19 @@
 7217
 22/home/mweichsel/PAC1/s1668360399020568374 0
-36/home/mweichsel/PAC1/dist/links.html1668859796867095556 0
-36/home/mweichsel/PAC1/dist/index.html1668859796867095556 0
-39/home/mweichsel/PAC1/dist/lunersee.html1668859796867095556 0
-44/home/mweichsel/PAC1/dist/index.a8959bff.css1668859796867095556 0
-48/home/mweichsel/PAC1/dist/index.a8959bff.css.map1668859796877095556 0
-59/home/mweichsel/PAC1/dist/lunersee_horitzontal.b9de0090.jpg1668859795027095570 0
-48/home/mweichsel/PAC1/dist/zurich-mm.bfe5a013.jpg1668859796797095557 0
-35/home/mweichsel/PAC1/dist/wiki.html1668859796867095556 0
-78/home/mweichsel/PAC1/dist/christian-wiediger-EmtaP8-VeNw-unsplash.6cb8baf6.jpg1668859795027095570 0
-47/home/mweichsel/PAC1/dist/index.0ef853de.js.map1668859796877095556 0
-52/home/mweichsel/PAC1/dist/theater-sauna.b3c41afa.jpg1668859795027095570 0
-47/home/mweichsel/PAC1/dist/index.2ea64617.js.map1668859796877095556 0
-25/home/mweichsel/PAC1/dist1668859796877095556 1
+36/home/mweichsel/PAC1/dist/links.html1668882835916924036 0
+50/home/mweichsel/PAC1/dist/lunersee.36992d50.js.map1668882835926924036 0
+36/home/mweichsel/PAC1/dist/index.html1668882835916924036 0
+39/home/mweichsel/PAC1/dist/lunersee.html1668882835916924036 0
+46/home/mweichsel/PAC1/dist/lunersee.36992d50.js1668882835916924036 0
+50/home/mweichsel/PAC1/dist/lunersee.3ccf777e.js.map1668882835926924036 0
+44/home/mweichsel/PAC1/dist/index.a8959bff.css1668882835916924036 0
+48/home/mweichsel/PAC1/dist/index.a8959bff.css.map1668882835916924036 0
+59/home/mweichsel/PAC1/dist/lunersee_horitzontal.b9de0090.jpg1668882834116924050 0
+48/home/mweichsel/PAC1/dist/zurich-mm.bfe5a013.jpg1668882835846924037 0
+35/home/mweichsel/PAC1/dist/wiki.html1668882835916924036 0
+78/home/mweichsel/PAC1/dist/christian-wiediger-EmtaP8-VeNw-unsplash.6cb8baf6.jpg1668882834116924050 0
+52/home/mweichsel/PAC1/dist/theater-sauna.b3c41afa.jpg1668882834116924050 0
+25/home/mweichsel/PAC1/dist1668882835926924036 1
 31/home/mweichsel/PAC1/.gitignore1668360313970567088 0
 61/home/mweichsel/PAC1/src/img/lunersee_dos.jpg:Zone.Identifier1668021534697662000 0
 42/home/mweichsel/PAC1/src/img/zurich-mm.jpg1668277962835997100 0
@@ -21,9 +22,9 @@
 61/home/mweichsel/PAC1/src/img/Lindauwinter.jpg:Zone.Identifier1668373670767711700 0
 57/home/mweichsel/PAC1/src/img/DSC05892.jpg:Zone.Identifier1668277962835997100 0
 47/home/mweichsel/PAC1/src/img/neuSchwanStein.jpg1668854078152376200 0
-35/home/mweichsel/PAC1/src/index.html1668857969797109159 0
+35/home/mweichsel/PAC1/src/index.html1668879462376949152 0
 35/home/mweichsel/PAC1/src/styles.css1668859727727096071 0
-31/home/mweichsel/PAC1/src/app.js1668624258148590825 0
+31/home/mweichsel/PAC1/src/app.js1668879583986948246 0
 55/home/mweichsel/PAC1/node_modules/resolve-from/index.js1668360602550571452 0
 54/home/mweichsel/PAC1/node_modules/resolve-from/license1668360602590571452 0
 61/home/mweichsel/PAC1/node_modules/load-json-file/package.json1668360602530571451 0
@@ -636,7 +637,7 @@
 60/home/mweichsel/PAC1/node_modules/yaml/browser/types/omap.js1668360602920571457 0
 45/home/mweichsel/PAC1/node_modules/yaml/map.js1668360602920571457 0
 48/home/mweichsel/PAC1/node_modules/yaml/scalar.js1668360603050571459 0
-35/home/mweichsel/PAC1/src/links.html1668858830557102750 0
+35/home/mweichsel/PAC1/src/links.html1668879458986949177 0
 46/home/mweichsel/PAC1/node_modules/yaml/pair.js1668360602940571458 0
 49/home/mweichsel/PAC1/node_modules/yaml/index.d.ts1668360603130571460 0
 48/home/mweichsel/PAC1/node_modules/yaml/schema.js1668360603070571460 0
@@ -906,7 +907,7 @@
 75/home/mweichsel/PAC1/node_modules/caniuse-lite/data/features/geolocation.js1668360603490571466 0
 54/home/mweichsel/PAC1/node_modules/source-map/README.md1668360602590571452 0
 57/home/mweichsel/PAC1/node_modules/source-map/package.json1668360602530571451 0
-53/home/mweichsel/PAC1/dist/neuSchwanStein.20096173.jpg1668859795027095570 0
+53/home/mweichsel/PAC1/dist/neuSchwanStein.20096173.jpg1668882834116924050 0
 44/home/mweichsel/PAC1/node_modules/source-map1668360602940571458 1
 64/home/mweichsel/PAC1/node_modules/detect-libc/lib/detect-libc.js1668360602760571455 0
 40/home/mweichsel/PAC1/node_modules/wrappy1668360602580571452 1
@@ -1217,7 +1218,7 @@
 55/home/mweichsel/PAC1/node_modules/entities/package.json1668360602910571457 0
 42/home/mweichsel/PAC1/node_modules/entities1668360602960571458 1
 59/home/mweichsel/PAC1/node_modules/shebang-command/readme.md1668360602620571453 0
-34/home/mweichsel/PAC1/src/wiki.html1668858983517101612 0
+34/home/mweichsel/PAC1/src/wiki.html1668879454846949208 0
 58/home/mweichsel/PAC1/node_modules/shebang-command/index.js1668360602550571452 0
 62/home/mweichsel/PAC1/node_modules/shebang-command/package.json1668360602530571451 0
 49/home/mweichsel/PAC1/node_modules/shebang-command1668360602590571452 1
@@ -2219,7 +2220,7 @@
 62/home/mweichsel/PAC1/node_modules/es-abstract/2020/MakeDate.js1668360603590571467 0
 74/home/mweichsel/PAC1/node_modules/@parcel/reporter-cli/src/bundleReport.js1668360602610571453 0
 52/home/mweichsel/PAC1/node_modules/css-tree/lib/lexer1668360603340571464 1
-33/home/mweichsel/PAC1/package.json1667668230024962899 0
+33/home/mweichsel/PAC1/package.json1668881645026932902 0
 69/home/mweichsel/PAC1/node_modules/npm-run-all/node_modules/color-name1668360602690571454 1
 69/home/mweichsel/PAC1/node_modules/caniuse-lite/dist/unpacker/index.js1668360603510571466 0
 54/home/mweichsel/PAC1/node_modules/@parcel/reporter-cli1668360602950571458 1
@@ -2301,7 +2302,7 @@
 83/home/mweichsel/PAC1/node_modules/@swc/helpers/src/_initializer_define_property.mjs1668360603240571462 0
 45/home/mweichsel/PAC1/node_modules/resolve/bin1668360602750571455 1
 80/home/mweichsel/PAC1/node_modules/es-abstract/2018/AbstractEqualityComparison.js1668360603050571459 0
-41/home/mweichsel/PAC1/dist/activities.html1668859796867095556 0
+41/home/mweichsel/PAC1/dist/activities.html1668882835916924036 0
 60/home/mweichsel/PAC1/node_modules/string.prototype.trimstart1668360602850571456 1
 59/home/mweichsel/PAC1/node_modules/resolve/test/node_path.js1668360603240571462 0
 56/home/mweichsel/PAC1/node_modules/htmlnano/.eslintignore1668360602540571452 0
@@ -2591,7 +2592,6 @@
 60/home/mweichsel/PAC1/node_modules/es-abstract/2022/Invoke.js1668360603510571466 0
 54/home/mweichsel/PAC1/node_modules/resolve/package.json1668360603300571463 0
 56/home/mweichsel/PAC1/node_modules/css-tree/data/index.js1668360603210571462 0
-43/home/mweichsel/PAC1/dist/index.0ef853de.js1668859796867095556 0
 135/home/mweichsel/PAC1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules/source-pnpm1668360603360571464 1
 68/home/mweichsel/PAC1/node_modules/es-abstract/2022/GetStringIndex.js1668360603490571466 0
 62/home/mweichsel/PAC1/node_modules/source-map/lib/base64-vlq.js1668360602770571455 0
@@ -2868,7 +2868,7 @@
 70/home/mweichsel/PAC1/node_modules/es-abstract/2020/Number/sameValue.js1668360603670571469 0
 79/home/mweichsel/PAC1/node_modules/caniuse-lite/data/features/css-text-indent.js1668360603400571465 0
 68/home/mweichsel/PAC1/node_modules/which-boxed-primitive/CHANGELOG.md1668360602770571455 0
-50/home/mweichsel/PAC1/dist/lunersee-mm.75a04cdf.jpg1668859791277095598 0
+50/home/mweichsel/PAC1/dist/lunersee-mm.75a04cdf.jpg1668882830446924077 0
 72/home/mweichsel/PAC1/node_modules/es-abstract/2015/GetOwnPropertyKeys.js1668360603480571466 0
 67/home/mweichsel/PAC1/node_modules/es-abstract/2022/DayWithinYear.js1668360603430571465 0
 69/home/mweichsel/PAC1/node_modules/@parcel/watcher/prebuilds/linux-x641668360603220571462 1
@@ -3104,6 +3104,7 @@
 54/home/mweichsel/PAC1/node_modules/@parcel/hash/LICENSE1668360602540571452 0
 47/home/mweichsel/PAC1/node_modules/isexe/LICENSE1668360602620571453 0
 65/home/mweichsel/PAC1/node_modules/es-abstract/helpers/callBind.js1668360603270571463 0
+46/home/mweichsel/PAC1/dist/lunersee.3ccf777e.js1668882835916924036 0
 59/home/mweichsel/PAC1/node_modules/safe-regex-test/README.md1668360602720571454 0
 65/home/mweichsel/PAC1/node_modules/is-boolean-object/.editorconfig1668360602530571451 0
 68/home/mweichsel/PAC1/node_modules/@parcel/node-resolver-core/LICENSE1668360602540571452 0
@@ -3219,7 +3220,7 @@
 73/home/mweichsel/PAC1/node_modules/ordered-binary/.idea/ordered-binary.iml1668360602650571453 0
 51/home/mweichsel/PAC1/node_modules/@trysound/sax/lib1668360602570571452 1
 55/home/mweichsel/PAC1/node_modules/object-inspect/.nycrc1668360602560571452 0
-20/home/mweichsel/PAC11668859791267095598 1
+20/home/mweichsel/PAC11668882830436924077 1
 56/home/mweichsel/PAC1/node_modules/@parcel/types/index.js1668360602690571454 0
 62/home/mweichsel/PAC1/node_modules/es-abstract/2019/ToString.js1668360603750571470 0
 64/home/mweichsel/PAC1/node_modules/@parcel/core/src/buildCache.js1668360603090571460 0
@@ -5094,7 +5095,7 @@
 79/home/mweichsel/PAC1/node_modules/@parcel/transformer-postcss/src/loadConfig.js1668360602730571454 0
 69/home/mweichsel/PAC1/node_modules/npm-run-all/bin/npm-run-all/main.js1668360602850571456 0
 69/home/mweichsel/PAC1/node_modules/npm-run-all/bin/npm-run-all/help.js1668360602820571456 0
-51/home/mweichsel/PAC1/dist/Lindauwinter.9acce567.jpg1668859795027095570 0
+51/home/mweichsel/PAC1/dist/Lindauwinter.9acce567.jpg1668882834116924050 0
 57/home/mweichsel/PAC1/node_modules/ordered-binary/index.js1668360602700571454 0
 57/home/mweichsel/PAC1/node_modules/is-string/test/index.js1668360602700571454 0
 63/home/mweichsel/PAC1/node_modules/npm-run-all/bin/run-p/main.js1668360602900571457 0
@@ -5415,7 +5416,6 @@
 72/home/mweichsel/PAC1/node_modules/@parcel/packager-js/lib/DevPackager.js1668360602750571455 0
 56/home/mweichsel/PAC1/node_modules/moment/locale/en-gb.js1667668215354962955 0
 57/home/mweichsel/PAC1/node_modules/es-abstract/2022/Get.js1668360603470571466 0
-43/home/mweichsel/PAC1/dist/index.2ea64617.js1668859796867095556 0
 96/home/mweichsel/PAC1/node_modules/@parcel/core/test/fixtures/custom-targets-distdir/package.json1668360603430571465 0
 76/home/mweichsel/PAC1/node_modules/es-abstract/2022/FromPropertyDescriptor.js1668360603470571466 0
 67/home/mweichsel/PAC1/node_modules/es-abstract/2022/SameValueZero.js1668360603680571469 0
@@ -6502,7 +6502,7 @@
 69/home/mweichsel/PAC1/node_modules/es-abstract/2017/thisNumberValue.js1668360603720571469 0
 71/home/mweichsel/PAC1/node_modules/es-abstract/2021/ByteListBitwiseOp.js1668360603240571462 0
 62/home/mweichsel/PAC1/node_modules/es-abstract/2017/ToUint32.js1668360603760571470 0
-40/home/mweichsel/PAC1/src/activities.html1668858881227102373 0
+40/home/mweichsel/PAC1/src/activities.html1668879465766949126 0
 71/home/mweichsel/PAC1/node_modules/caniuse-lite/data/features/css-has.js1668360603340571464 0
 72/home/mweichsel/PAC1/node_modules/es-abstract/2020/GetOwnPropertyKeys.js1668360603480571466 0
 76/home/mweichsel/PAC1/node_modules/es-abstract/2017/OrdinaryGetOwnProperty.js1668360603640571468 0
