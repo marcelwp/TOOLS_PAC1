@@ -3,6 +3,7 @@
 :root {
     --footer: #ecbf2c;
     --hover: #45af87;
+    --portada: #000000;
 }
 
 h1 {
@@ -55,7 +56,7 @@ header .container {
     margin: auto;
 }
 
-header{
+header .container {
     display: flex;
     justify-content: space-between;
 }
@@ -112,26 +113,45 @@ main {
     padding-bottom: 2rem;
 }
 
+.container {
+    max-width: 1080px;
+}
+
 /*****************************
 PORTADA
 *****************************/
 #benvinguda {
-    background-image: url("img/max-bottinger-a6vQXseqllA-unsplash.jpg");
+    background-image: url("img/christian-wiediger-EmtaP8-VeNw-unsplash.jpg");
     background-position: bottom center;
     background-size: cover;
     background-attachment: scroll;
     height: 85vh;
     max-width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 #benvinguda h1 {
     text-align: center;
-    padding-top: 10vh;
+    padding-top: 40vh;
+    padding-bottom: 50vh;
     font-size: 3rem;
     margin-top: 0;
-    color:antiquewhite;
+    color:var(--portada);
     text-transform: uppercase;
     font-weight: 600;
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.titleBox {
+    display: block;
+    max-width: 1080px;
+    margin: auto;
+    padding-top: 0vh;
+    /*border: 1px solid black;
+    border-radius: 10;*/
 }
 
 /*****************************
@@ -163,8 +183,13 @@ h2 {
         max-width: 50vw;
     }
 
-    header {
+    header .container {
         display:block;
+    }
+
+    header p, li, ul {
+        margin-top: 0.25rem;
+        margin-bottom: 0.25rem;
     }
 
     nav ul {
