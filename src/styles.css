@@ -173,14 +173,14 @@ h2 {
     margin-top: 2rem;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 450px) {
     
     .activitatResum {
         display: block;
     }
 
     .img-fluid {
-        max-width: 50vw;
+        max-width: 95vw;
     }
 
     header .container {

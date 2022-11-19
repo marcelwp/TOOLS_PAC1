@@ -1,0 +1,178 @@
+@import "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900";
+:root {
+  --footer: #ecbf2c;
+  --hover: #45af87;
+  --portada: #000;
+}
+
+h1 {
+  color: var(--fosc);
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  color: #1f1f1f;
+  background-color: var(--body-fons);
+  min-width: 250px;
+  text-align: justify;
+  margin: 0 auto;
+  font-family: Montserrat;
+  font-size: 1rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.img-fluid {
+  max-width: 20vw;
+  min-width: 200px;
+  height: auto;
+}
+
+.img-article {
+  max-width: 100%;
+}
+
+p {
+  line-height: 1.5rem;
+}
+
+header {
+  text-align: center;
+  background-color: var(--sobre-fosc);
+  z-index: 1;
+  position: sticky;
+  top: 0;
+}
+
+header .container {
+  justify-content: space-between;
+  margin: auto;
+  display: flex;
+}
+
+nav {
+  color: var(--fosc);
+  display: inline-block;
+}
+
+nav ul {
+  padding-left: 0;
+  display: inline-block;
+}
+
+nav ul li {
+  padding-left: 1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  display: inline-block;
+}
+
+a:hover {
+  color: var(--hover);
+}
+
+nav li.active a {
+  color: var(--fosc);
+  font-weight: 600;
+}
+
+footer, header {
+  background-color: var(--footer);
+  color: var(--sobre-fosc);
+  text-align: center;
+  padding: .5rem;
+}
+
+header, main, footer {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+main {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2rem;
+}
+
+.container {
+  max-width: 1080px;
+}
+
+#benvinguda {
+  height: 85vh;
+  max-width: 100vw;
+  background-image: url("christian-wiediger-EmtaP8-VeNw-unsplash.b3a9e7d9.jpg");
+  background-position: bottom;
+  background-size: cover;
+  background-attachment: scroll;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#benvinguda h1 {
+  text-align: center;
+  color: var(--portada);
+  text-transform: uppercase;
+  background-color: #fff6;
+  margin-top: 0;
+  padding-top: 40vh;
+  padding-bottom: 50vh;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.titleBox {
+  max-width: 1080px;
+  margin: auto;
+  padding-top: 0;
+  display: block;
+}
+
+.activitatResum {
+  align-items: flex-start;
+  font-size: .9rem;
+  display: flex;
+}
+
+.activitatFoto {
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 450px) {
+  .activitatResum {
+    display: block;
+  }
+
+  .img-fluid {
+    max-width: 95vw;
+  }
+
+  header .container {
+    display: block;
+  }
+
+  header p, li, ul {
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+  }
+
+  nav ul {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */
