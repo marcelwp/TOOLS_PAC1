@@ -169,7 +169,6 @@ PORTADA
 }
 
 .clip-circle {
-    height: 15rem;
     clip-path:circle(5rem at center);
     display: block;
     margin: auto;
